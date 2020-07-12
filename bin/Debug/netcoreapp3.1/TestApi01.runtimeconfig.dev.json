@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/salar/.dotnet/store/|arch|/|tfm|",
+      "/Users/salar/.nuget/packages"
+    ]
+  }
+}
